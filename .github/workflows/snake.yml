@@ -16,12 +16,11 @@ jobs:
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: dmwheeler
+          github_token: ${{ secrets.GH_PAT }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+            dist/github-contribution-grid-snake.svg?color_snake=#ff4fd8&color_dots=#ebedf0,#d7f8ff,#93ecff,#28d7ff,#b400ff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff4fd8&color_dots=#161b22,#0a2530,#004f68,#00d5ff,#b400ff
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
