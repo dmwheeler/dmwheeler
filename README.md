@@ -48,8 +48,9 @@ into interesting technical rabbit holes.
 <pre>
 ┌──(dylan@dmwheeler)-[~/contribution-grid]
 ├─ source: github contribution calendar
-├─ renderer: snake.svg
+├─ renderer: Platane/snk
 ├─ branch: output
+├─ token: GH_PAT
 └─ status: signal acquired
 </pre>
 
