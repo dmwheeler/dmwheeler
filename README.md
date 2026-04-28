@@ -47,9 +47,9 @@ into interesting technical rabbit holes.
 
 <pre>
 ┌──(dylan@dmwheeler)-[~/contribution-grid]
-├─ source: github activity matrix
+├─ source: github contribution calendar
 ├─ renderer: snake.svg
-├─ visibility: public contributions
+├─ branch: output
 └─ status: signal acquired
 </pre>
 
