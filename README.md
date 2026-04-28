@@ -14,28 +14,28 @@
 
 <br />
 
-## Selected Work
+## Work in Progress
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/dmwheeler/RAGBot">RAGBot</a></h3>
+      <h3>Local RAG Desktop App <sub>private / release planned</sub></h3>
       <p>
-        Local retrieval-augmented desktop app built with Python, PySide6, llama.cpp, and Chroma.
-        Focused on running against local GGUF models with transparent retrieval and local runtime storage.
+        A local-first retrieval-augmented generation desktop application for indexing documents,
+        inspecting retrieved context, and running against local language models.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/PySide6-111827?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
-        <img src="https://img.shields.io/badge/llama.cpp-111827?style=flat-square" alt="llama.cpp" />
-        <img src="https://img.shields.io/badge/Chroma-111827?style=flat-square" alt="Chroma" />
+        <img src="https://img.shields.io/badge/Desktop_UI-111827?style=flat-square" alt="Desktop UI" />
+        <img src="https://img.shields.io/badge/Local_AI-111827?style=flat-square" alt="Local AI" />
+        <img src="https://img.shields.io/badge/Vector_Search-111827?style=flat-square" alt="Vector Search" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/dmwheeler/Retap">Retap</a></h3>
+      <h3>Manual Card Tabletop <sub>private / release planned</sub></h3>
       <p>
-        Manual online MTG tabletop in the spirit of untap.in.
-        Includes rooms, invite codes, deck saving, commander support, hidden information handling, counters, turn/phase tracking, and game logs.
+        A browser-based tabletop for manual card-game play, focused on rooms, deck handling,
+        hidden zones, counters, turn state, and lightweight multiplayer flow.
       </p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -47,35 +47,35 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/dmwheeler/Chiptune">Chiptune</a></h3>
+      <h3>Config-Driven Music Generator <sub>private / release planned</sub></h3>
       <p>
-        Config-driven music generator for creating MIDI output from presets, themes, motifs, and arrangement layers.
-        Built around deterministic generation, CLI tooling, tests, and an Avalonia UI.
+        A deterministic MIDI generation system built around presets, arrangement layers,
+        motif handling, validation, CLI workflows, and desktop preview tooling.
       </p>
       <p>
         <img src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
         <img src="https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/Avalonia-111827?style=flat-square" alt="Avalonia" />
+        <img src="https://img.shields.io/badge/Desktop_UI-111827?style=flat-square" alt="Desktop UI" />
         <img src="https://img.shields.io/badge/MIDI-111827?style=flat-square" alt="MIDI" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/dmwheeler/Derelict">Derelict</a></h3>
+      <h3>2D Space Game Prototype <sub>private / release planned</sub></h3>
       <p>
-        Unity project centered on 2D space exploration, destructibles, progression systems, inventory/UI work, and custom editor tooling.
-        Includes mining/combat-style gameplay systems, ship/player logic, and world interaction systems.
+        A Unity prototype exploring 2D space movement, destructible objects, item systems,
+        progression, UI, shaders, and custom editor tooling.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
         <img src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/URP-111827?style=flat-square" alt="URP" />
         <img src="https://img.shields.io/badge/2D-111827?style=flat-square" alt="2D" />
+        <img src="https://img.shields.io/badge/Tools-111827?style=flat-square" alt="Tools" />
       </p>
     </td>
   </tr>
 </table>
 
-## Links
+## Public
 
 <p>
   <a href="https://github.com/dmwheeler?tab=repositories">repositories</a>
