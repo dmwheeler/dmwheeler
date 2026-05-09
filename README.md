@@ -16,29 +16,37 @@
 
 ## Released
 
-<img src="numismatic waystones-export.png" width="120" align="left" alt="Create Numismatified Waystones icon" />
+<table>
+  <tr>
+    <td width="140" valign="top">
+      <img src="numismatic waystones-export.png" width="120" alt="Create Numismatified Waystones icon" />
+    </td>
+    <td valign="top">
+      <h3>Create Numismatified Waystones</h3>
+      <p>
+        Java/NeoForge integration mod that replaces XP-based Waystones teleport costs with a coin-based fare system powered by Create: Numismatics.
+      </p>
+      <p>
+        Designed as a configurable progression layer for multiplayer servers and modpacks, with pricing controls by distance and dimension.
+      </p>
+      <p>
+        Supports both wallet-style inventory coins and bank-card account payments, including exact-change returns when paying from inventory.
+      </p>
+      <p>
+        <strong>Requirements:</strong> Create, Create Numismatics, Waystones.
+      </p>
+      <p>
+        <a href="https://github.com/dmwheeler/Create-Numismatified-Waystones">Repository</a>
+        &middot;
+        <a href="https://www.curseforge.com/minecraft/mc-mods/technophobias-create-numismatified-waystones">CurseForge</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/NeoForge-111827?style=flat-square" alt="NeoForge" /> <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Gradle-111827?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Create Numismatified Waystones
-
-Adapts Waystones to use Create Numismatics currency rather than XP for teleportation fares.
-
-Config available to tune how expensive travel is by distance and by dimension.
-
-Works with currency in-inventory and using bank cards.
-
-When using in-inventory currency the waystone will return exact change.
-
-**Requirements:** Create, Create Numismatics, Waystones.
-
-Built for NeoForge.
-
-[Repository](https://github.com/dmwheeler/Create-Numismatified-Waystones) &middot; [CurseForge](https://www.curseforge.com/minecraft/mc-mods/technophobias-create-numismatified-waystones)
-
-<img src="https://img.shields.io/badge/NeoForge-111827?style=flat-square" alt="NeoForge" />
-<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Gradle-111827?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
-
-<br clear="left" />
 <br />
 
 ## Work in Progress
