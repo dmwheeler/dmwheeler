@@ -89,6 +89,10 @@
 
 ## Public
 
+### Released Projects
+
+- [Create Numismatified Waystones](https://github.com/dmwheeler/Create-Numismatified-Waystones)
+
 <p>
   <a href="https://github.com/dmwheeler?tab=repositories">repositories</a>
   ·
@@ -96,3 +100,4 @@
   ·
   <a href="https://github.com/dmwheeler?tab=projects">projects</a>
 </p>
+
