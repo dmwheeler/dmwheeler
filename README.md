@@ -13,7 +13,54 @@
 </div>
 
 <br />
+## Released
 
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <p align="center">
+        <img src="numismatic waystones-export.png" width="140" alt="Create Numismatified Waystones icon" />
+      </p>
+      <h3>Create Numismatified Waystones <sub>public / released</sub></h3>
+      <p>
+        Adapts Waystones to use Create Numismatics currency rather than XP for teleportation fares.
+      </p>
+      <p>
+        Config available to tune how expensive travel is by distance and by dimension.
+      </p>
+      <p>
+        Works with currency in-inventory and using bank cards.
+      </p>
+      <p>
+        When using in-inventory currency the waystone will return exact change.
+      </p>
+      <p>
+        <strong>Requirements:</strong> Create, Create Numismatics, Waystones.
+      </p>
+      <p>
+        Built for NeoForge.
+      </p>
+      <p>
+        <a href="https://github.com/dmwheeler/Create-Numismatified-Waystones">Repository</a>
+        &middot;
+        <a href="https://www.curseforge.com/minecraft/mc-mods/technophobias-create-numismatified-waystones">CurseForge</a>
+      </p>
+      <p>
+        <img src="Screenshot 2026-05-09 184432.png" width="100%" alt="Create Numismatified Waystones screenshot" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Public-111827?style=flat-square&logo=github&logoColor=white" alt="Public" />
+        <img src="https://img.shields.io/badge/Released-111827?style=flat-square" alt="Released" />
+        <img src="https://img.shields.io/badge/Minecraft-111827?style=flat-square" alt="Minecraft" />
+        <img src="https://img.shields.io/badge/Waystones-111827?style=flat-square" alt="Waystones" />
+        <img src="https://img.shields.io/badge/Create%3A_Numismatics-111827?style=flat-square" alt="Create Numismatics" />
+        <img src="https://img.shields.io/badge/NeoForge-111827?style=flat-square" alt="NeoForge" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
 ## Work in Progress
 
 <table>
@@ -87,17 +134,12 @@
   </tr>
 </table>
 
-## Public
-
-### Released Projects
-
-- [Create Numismatified Waystones](https://github.com/dmwheeler/Create-Numismatified-Waystones)
-
 <p>
   <a href="https://github.com/dmwheeler?tab=repositories">repositories</a>
-  ·
+  &middot;
   <a href="https://github.com/dmwheeler?tab=stars">stars</a>
-  ·
+  &middot;
   <a href="https://github.com/dmwheeler?tab=projects">projects</a>
 </p>
+
 
