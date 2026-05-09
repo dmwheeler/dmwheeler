@@ -24,13 +24,13 @@
     <td valign="top">
       <h3>Create Numismatified Waystones</h3>
       <p>
-        Java/NeoForge integration mod that replaces XP-based Waystones teleport costs with a coin-based fare system powered by Create: Numismatics.
+        Java/NeoForge integration mod that replaces XP-based Waystones teleport costs with Create Numismatics currency. Teleport with spurs and cogs as payment instead of experience. 
       </p>
       <p>
-        Designed as a configurable progression layer for multiplayer servers and modpacks, with pricing controls by distance and dimension.
+        Pricing configuration avialable through config file.
       </p>
       <p>
-        Supports both wallet-style inventory coins and bank-card account payments, including exact-change returns when paying from inventory.
+        Supports both inventory item currency and bank-card account payments, including exact-change cash returns when paying from inventory.
       </p>
       <p>
         <strong>Requirements:</strong> Create, Create Numismatics, Waystones.
